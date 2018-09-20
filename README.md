@@ -5,9 +5,10 @@ _[mpv](https://mpv.io/) a free, open source, and cross-platform media player_
 ![https://mpv.io/](https://mpv.io/images/mpv-logo-128-0baae5aa.png)
 
 ## Other Downloads:
-* Windows / ubuntu / linux / macos / Android stable cahnnel Official: [mpv.io](http://mpv.io/installation)
-* Windows beta channel Official: [sourceforge.net](https://sourceforge.net/projects/mpv-player-windows/files)
-* Android test builds Official: [github.com](https://github.com/mpv-android/mpv-android/releases)
+* Windows / ubuntu / linux / macos / Android stable cahnnel official: [mpv.io](http://mpv.io/installation)
+* Windows beta channel official: [sourceforge.net](https://sourceforge.net/projects/mpv-player-windows/files)
+* Android stable official: [play.google.com](https://play.google.com/store/apps/details?id=is.xyz.mpv&hl=en)
+* Android test builds official: [github.com](https://github.com/mpv-android/mpv-android/releases)
 * Config files by SNAD for Windows / ubuntu / linux / macos: [366KiB](https://goo.gl/7Mphpk) 
 
 ## Config For Windows:
